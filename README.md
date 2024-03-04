@@ -1,2 +1,3 @@
 # angular
-![Capture](https://github.com/harikiranPoosa/angular/assets/156776643/f1bd3937-c6d8-4c10-aadb-ad9016e0320a)
+
+https://github.com/harikiranPoosa/angular/assets/156776643/96000840-bb03-497b-8013-b8b759d0fa9d
